@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Kamu Mau Ga Jadi Pacarku??',
     btnYes: 'Terima',
     btnNo: 'Tolak',
-    question: 'Eh Di Kenapa Di Terima??!',
+    question: 'Eh Kenapa Di Terima??!',
     btnReply: 'Terima',
     reply: 'Karena Aku Juga Suka Kamu',
     mess: 'Makasih Udah Mau Terima Aku🥰',
