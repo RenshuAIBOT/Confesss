@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Makasih Udah Mau Terima Aku🥰',
     messDesc: 'Semoga Hubungan Kita Bertahan Lama:)',
     btnAccept: 'Terima Kasih',
-    messLink: 'https://renshuaibot.github.io/LopYu/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://renshuaibot.github.io/Pict/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
